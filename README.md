@@ -1,0 +1,1 @@
+Cílem tohoto projektu je připravit robustní datové podklady pro analytické oddělení nezávislé společnosti, která se zabývá sledováním životní úrovně obyvatel. Oddělení se rozhodlo zaměřit na dostupnost základních potravin pro širokou veřejnost a snaží se zodpovědět několik předem definovaných výzkumných otázek.
